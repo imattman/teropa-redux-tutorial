@@ -59,7 +59,7 @@ describe('application logic', () => {
       }));
     });
 
-  });
+  }); // describe('next')
 
 
   describe('vote', () => {
